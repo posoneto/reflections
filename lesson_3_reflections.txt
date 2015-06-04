@@ -1,1 +1,3 @@
 Estas reflexiones las cree directamente en github website
+Luego las voy actualizar en mi local repository
+
